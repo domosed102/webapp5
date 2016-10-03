@@ -8,7 +8,7 @@ public class Main {
             System.out.println("try");
             a();
         } catch (Exception e) {
-            System.out.println("Cathed");
+            System.out.println("Catched");
         }
         finally {
             System.out.println("final");
